@@ -8,6 +8,7 @@
   background-color: coral;
   position: absolute;
   animation: move 2s;
+ animation-direction: alternate-reverse;
 }
 
 @keyframes move {
